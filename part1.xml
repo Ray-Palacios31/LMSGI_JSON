@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Declaració xml -->
+<technology_store>
+    <product1 category="portàtils"><!-- Etiqueta del primer producte -->
+        <code>10791959</code>
+        <name>Dell Vostro 3520 Intel Core i5-1235U</name>
+        <description>
+        Compri el portàtil Dell Vostro de 15/06 polzades (3520), que compta amb opcions d'emmagatzematge SSD i processadors Intel Core de fins a 12a generació.
+        </description>
+        <price>479,00€</price>
+        <availability>Sense estoc</availability>
+        <image>
+        https://thumb.pccomponentes.com/w-530-530/articles/1079/10791959/2404-dell-vostro-3520-intel-core-i5-1235u-8gb-512gb-ssd-156-c58853b9-7765-4f7f-9bae-9b95eb4600ce.jpg
+        </image>
+    </product1><!-- Tancament del primer producte -->
+    <product2 category="smartphones>"><!-- Etiqueta del segon producte -->
+        <code>10804910</code>
+        <name>Xiaomi Redmi Note 13 Pro 8/256GB Morat</name>
+        <description>
+        No només és un smartphone, és una autèntica revolució en disseny que no passarà desapercebuda. Amb una pantalla corba,aquest dispositiu se sent com una joia a les mans i el seu estil és innegable.
+        </description>
+        <price>209,94€</price>
+        <availability>Només disponible per a l'enviament a dominicili</availability>
+        <image>
+        https://thumb.pccomponentes.com/w-530-530/articles/1080/10804910/1466-xiaomi-redmi-note-13-pro-8-256gb-purpura-libre.jpg
+        </image>
+    </product2><!-- Tancament del segon producte -->
+</technology_store><!-- Tancament de l'etiqueta -->

@@ -1,0 +1,62 @@
+{
+    "pokemons": [
+    {
+        "pokemon":
+        {
+            "identificador": 001,
+            "nom": "Bulbasaur",
+            "tipus": "planta i verí",
+            "pesKg": 6.9,
+            "alçadaMetres": 0.7,
+            "estadistiques":
+            {
+                "velocitat": 3,
+                "resistencia": 4
+            },
+            "moviment":
+            {
+                "nom": "placatge",
+                "descripcio": "És un moviment de tipus normal introduït en la primera generació",
+                "potència": 40,
+                "contacte": "Sí"
+            },
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+            "evolucions":
+            {
+                "identificador": 002,
+                "nivell": 16
+            }
+        }
+    },
+    {
+        "pokemon":
+        {
+            "identificador": 172,
+            "nom1": "Pichu",
+            "tipus": "elèctric",
+            "pesKg": 2.0,
+            "alçadaMetres": 0.3,
+            "estadistiques":
+            {
+                "velocitat": 4,
+                "fortalesa": 3,
+                "precisio": 5,
+                "resistencia": 3
+            },
+            "moviment":
+            {
+                "nom": "Làtic",
+                "descripcio": "És un moviment de tipus normal introduït en la primera generació",
+                "potencia": "-",
+                "contacte": "No"
+            },
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/9/9d/latest/20150620210539/Pichu.png",
+            "evolucions":
+            {
+                "identificador": 0025,
+                "nivell": 220
+            }
+        }
+    }
+]
+}
